@@ -1,2 +1,3 @@
+New first line.
 It is also a planet!
 Here is another change.
